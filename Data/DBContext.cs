@@ -60,10 +60,10 @@ namespace MovieRentalApp.Data
                 new Client
                 {
                     Id = 1,
-                    FirstName = "John",
-                    LastName = "Doe",
+                    FirstName = "Slavko",
+                    LastName = "Mino",
                     DOB = new DateTime(1985, 5, 15),
-                    Address = "123 Main St, New York, NY",
+                    Address = "Skopje, Macedonia",
                     MembershipCardNumber = "M12345",
                     MembershipCardValidityDate = new DateTime(2025, 12, 31),
                     MovieId = 1,
@@ -73,10 +73,10 @@ namespace MovieRentalApp.Data
                 new Client
                 {
                     Id = 2,
-                    FirstName = "Jane",
-                    LastName = "Smith",
+                    FirstName = "Marija",
+                    LastName = "Stojanovska",
                     DOB = new DateTime(1990, 8, 22),
-                    Address = "456 Oak Ave, Los Angeles, CA",
+                    Address = "Ohrid, Macedonia",
                     MembershipCardNumber = "M67890",
                     MembershipCardValidityDate = new DateTime(2026, 5, 15)
                 }
